@@ -1,1 +1,1 @@
-https://github.blog/changelog/2025-09-19-deprecation-of-node-20-on-github-actions-runners/
+[![Java CI with Gradle](https://github.com/Login12126/API-CI/actions/workflows/gradle.yml/badge.svg)](https://github.com/Login12126/API-CI/actions/workflows/gradle.yml)
